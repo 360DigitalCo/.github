@@ -1,12 +1,9 @@
 ## Hi there 👋
 
-<!--
 
-**Here are some ideas to get you started:**
+🧠 We're 360Digital, the team that created, founded and currently manages <a href="360-search.com'>360!</a>
+🏢 So you wanna contribute to our projects? Easy! Just like any other open source projects (which most of our projects are) rely on PR's from OTHERS to reshape into something <em><strong>BETTER</strong></em>
+💻 Useful resources - We've got none. But if you classify anything we've put to the public as a "Useful Resource" you can call it that and use it like one! We're not your <em>BOSS...</em>
+🍿 Fun facts - "____." *hahahahahahahahahaaaa!!*
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+
