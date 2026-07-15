@@ -12,4 +12,5 @@
 
 🍿 Fun facts - "____." *hahahahahahahahahaaaa!!*
 
+and yes, the falling green code in our profile pic is real, not a screenshot from "hACkeriOscReeN.cOm/trOllTEacHer"
 
